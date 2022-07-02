@@ -21,6 +21,9 @@ Software is like Capitalism: Sometimes it crashes.  Interests include: graphics 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/sh-%234EAA25.svg?style=flat-square&logo=gnometerminal&logoColor=white)
 
+#
+<a href="https://www.buymeacoffee.com/idx0">![Buy Coffee](https://img.shields.io/badge/Inject%20Fuel-%23FFDD00.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black)</a>
+
 <!--
 **idx0/idx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
