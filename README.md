@@ -3,6 +3,9 @@
 Currently SWE @ Apple
 
 Software is like Capitalism: Sometimes it crashes.  Interests include: graphics programming, template metaprogramming, libraries and frameworks, internet protocols, and anything C/C++.
+<!--
+I also enjoy: architecture, astrophysics, linguistics, electronic music production, and anthropology.
+-->
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -11,14 +14,18 @@ Software is like Capitalism: Sometimes it crashes.  Interests include: graphics 
 ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/js-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=flat-square&logo=perl&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![xOS](https://img.shields.io/badge/iOS/macOS/watchOS-000000?style=flat-square&logo=Apple&logoColor=F0F0F0)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+![TeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
+![Bitwig](https://img.shields.io/badge/Bitwig-%23FF5A00.svg?style=flat-square&logo=bitwig&logoColor=white)
 ![Bash](https://img.shields.io/badge/sh-%234EAA25.svg?style=flat-square&logo=gnometerminal&logoColor=white)
 
 #
