@@ -3,9 +3,6 @@
 Currently SWE @ Apple
 
 Software is like Capitalism: Sometimes it crashes.  Interests include: graphics programming, template metaprogramming, libraries and frameworks, internet protocols, and anything C/C++.
-<!--
-I also enjoy: architecture, astrophysics, linguistics, electronic music production, and anthropology.
--->
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -31,18 +28,3 @@ I also enjoy: architecture, astrophysics, linguistics, electronic music producti
 #
 <a href="https://www.buymeacoffee.com/idx0" target="_blank">![Buy Coffee](https://img.shields.io/badge/Inject%20Fuel-%23FFDD00.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black)</a>
 <a href="https://www.linkedin.com/in/schweizercommasteve/" target="_blank">![LinkedIn](https://img.shields.io/badge/Connect-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-<!--
-**idx0/idx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
